@@ -1,4 +1,4 @@
-## Welcome to Darwon's(彭道万) Pages
+## Welcome to Darwon's (彭道万) Pages
 
 ### Personal File
 I am currently a Ph.D. candidate at school of computer science and technology in Huazhong University of Science and Technology.
