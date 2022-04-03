@@ -1,5 +1,5 @@
 ## Welcome to Darwann Peng's  Homepage
-### Personal File
+### Personal Information
 I am currently a Ph.D. candidate at College of Computer Science and Technology in Huazhong University of Science and Technology.
 
 
